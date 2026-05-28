@@ -1,6 +1,6 @@
 # Assad Ullah Chaudhry
 
-**Senior SaaS & Fintech Architect** — Lahore, Pakistan  
+**Senior SaaS & Fintech Architect**  
 [assadullahch.com](https://assadullahch.com) · [LinkedIn](https://linkedin.com/in/assad-ullah-ch)
 
 ---
