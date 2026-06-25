@@ -3,8 +3,7 @@
 **Senior SaaS & Fintech Architect • Founder & CEO of Aucsol**
 
 🌐 https://assadullahch.com   
-🏢 https://aucsol.com
-
+🏢 https://aucsol.com   
 💼 https://linkedin.com/in/assad-ullah-ch
 
 ---
@@ -118,17 +117,17 @@ Real-time social platform with groups, chat, events, content delivery, and mobil
 
 ## Links
 
-🌐 Personal Website
+🌐 Personal Website  
 https://assadullahch.com
 
-🏢 Aucsol
+🏢 Aucsol   
 https://aucsol.com
 
-📚 Portfolio & Case Studies
+📚 Portfolio & Case Studies   
 https://assadullahch.com/portfolio
 
-📞 Work With Me
+📞 Work With Me   
 https://aucsol.com/contact
 
-💼 LinkedIn
+💼 LinkedIn   
 https://linkedin.com/in/assad-ullah-ch
