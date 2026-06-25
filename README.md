@@ -1,8 +1,11 @@
 # Assad Ullah Chaudhry
 
 **Senior SaaS & Fintech Architect • Founder & CEO of Aucsol**
+
 🌐 https://assadullahch.com
+
 🏢 https://aucsol.com
+
 💼 https://linkedin.com/in/assad-ullah-ch
 
 ---
