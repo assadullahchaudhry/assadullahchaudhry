@@ -65,6 +65,7 @@ Kodezi is an AI-powered developer tools platform. I helped build the platform fr
 
 Aucsol helps businesses build revenue-focused digital systems, including:
 
+* AI Chatbots
 * Revenue-focused websites
 * Customer portals
 * Business dashboards
@@ -83,7 +84,7 @@ Aucsol helps businesses build revenue-focused digital systems, including:
 React • Next.js • TypeScript • Tailwind CSS • React Native
 
 **Backend**
-Node.js • Express.js • Laravel
+Node.js • Express.js • Koa.js • Fastify • Laravel
 
 **Databases**
 PostgreSQL • MySQL • MongoDB • Redis
@@ -92,7 +93,7 @@ PostgreSQL • MySQL • MongoDB • Redis
 AWS (EC2, S3, SES) • Docker • Vercel • CI/CD
 
 **Payments**
-Stripe • Stripe Connect • Billing • Webhooks
+Stripe • Stripe Connect • PayPal • Paddle • Billing • Webhooks and many more
 
 **AI**
 OpenAI • LLM APIs • Vector Databases • RAG Pipelines
