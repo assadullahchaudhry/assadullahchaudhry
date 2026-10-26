@@ -1,6 +1,6 @@
 # Assad Ullah Chaudhry
 
-**Senior SaaS & Fintech Architect • Founder & CEO of Aucsol**
+**Senior SaaS Engineer, Payments, AI, Product Delivery • Founder & CEO of Aucsol**
 
 🌐 https://assadullahch.com   
 🏢 https://aucsol.com   
@@ -38,7 +38,7 @@ OpenAI integrations, LLM workflows, retrieval-augmented generation (RAG), AI-pow
 
 ### Founding Full Stack Engineer at Kodezi
 
-*(2022 – Present)*
+*(2022 – 2026)*
 
 Kodezi is an AI-powered developer tools platform. I helped build the platform from v1 through v4, including:
 
