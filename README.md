@@ -1,6 +1,6 @@
 # Assad Ullah Chaudhry
 
-**Senior SaaS Engineer, Payments, AI, Product Delivery • Founder & CEO of Aucsol**
+**Senior SaaS Engineer, Payments, AI, Product Delivery • Founder of Aucsol**
 
 🌐 https://assadullahch.com   
 🏢 https://aucsol.com   
