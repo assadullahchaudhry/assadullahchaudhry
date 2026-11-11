@@ -14,7 +14,7 @@ I'm a senior full-stack engineer, SaaS architect, and founder with 11+ years of 
 
 I specialize in architecting and delivering scalable platforms that generate revenue, automate operations, streamline customer experiences, and support long-term growth.
 
-I am also the Founder & CEO of **Aucsol**, a software development studio focused on revenue-focused websites, payment systems, customer portals, dashboards, business automation, SaaS platforms, and emergency engineering services.
+I am also the Founder of **Aucsol**, a software development studio focused on revenue-focused websites, payment systems, customer portals, dashboards, business automation, SaaS platforms, and emergency engineering services.
 
 ---
 
@@ -59,7 +59,7 @@ Kodezi is an AI-powered developer tools platform. I helped build the platform fr
 
 ---
 
-## Founder & CEO
+## Founder
 
 ### Aucsol
 
